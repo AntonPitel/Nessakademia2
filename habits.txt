@@ -35,3 +35,10 @@ Toto je si myslim jedno z najdolezitejsich pri programovani.
 Ja ako programator sa rad ucim nove veci, niektore mi trvaju dlhsie a niektore idu same za pochodu.
 Ale hlavne je to ze sa treba ucit nove veci ci uz nove programy alebo nove sposoby pisania kodu.
 Toto bol tiez jeden z dovodov preco som sa dal na programovanie lebo to obsahuje strasne vela toho co sa mozem naucit a stale sa zlepsovat.
+
+V siestom bode rozprava o spolupraci v tyme.
+Ma pravdu ze netreba vsetko robit sam. 
+Koli tomu ze robime vsetko sami je to o dost tazsie.
+Nemusime sa spoliehat iba na seba ale kedze pracujeme v skupine ako tym tak si mozme aj pomahat navzajom.
+Setri to casom, neni tolko chyb a tak isto ked ho napiseme rychlejsie skor sa moze ten product potom predat.
+Netreba sa bat alebo hanbit nechat si pomoct alebo iba poradit od kolegov v tyme.  
