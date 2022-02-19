@@ -13,3 +13,9 @@ Ako povedal Get It Done atitude. Hlavne je drzat sa toho cielu ktory je stanoven
 Ak som to spravne pochopil tak tam rozprava o tom ze neni podstatne ten kod vylepsovat vselijake malicke vecicky do detailov.
 A nakoniec ten kod ani nepredam a nebudem mat s toho nic. Dolezite je spravit ho tak aby fungoval spravne. 
 A aby sa potom dal predat a mal som neaky uzitok s tej aplikacie ktoru som vydal. 
+
+V tretom videu rozprava o jednoduchosti kodu.
+Je to cisto o tom aby sme sa snazili pisat kod co najjednoduchsie.
+Je to lahsie pre nas ale aj pre druhych ktory ten kod citaju a snazia sa ho pochopit.
+Snazime sa tym vyhnut hlavne chybam crashom a bugom. 
+Lahsie sa debuguje ten kod a skor a rychlejsie mozeme potom ten kod dat do predaja.
