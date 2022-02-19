@@ -6,3 +6,10 @@ Podla mna je to dost dolezite pretoze ja sam mam problemy s krcnou chrbticou a n
 Musim si niekolkokrat do dna natahovat krk aby som ho nemal stuhnuty a nemal bolesti. 
 Velmi dobre to tam vysvetluje ohladom toho fyzickeho zdravia a takisto aj to ze treba chodit aj von na slnko.
 To je tiez velmi dolezite pretoze stale sediet doma alebo v kancelarii tiez nieje zdrave ci uz fyzicky alebo aj psychicky.
+
+V druhom videu rozprava o tom ze treba spravit svoju pracu a neprplat sa v tom zbytocne. 
+Niektori programatori sa nehaju uniest nad neakym bugom a stravia cele hodiny pri pocitaci.
+Ako povedal Get It Done atitude. Hlavne je drzat sa toho cielu ktory je stanoveny.
+Ak som to spravne pochopil tak tam rozprava o tom ze neni podstatne ten kod vylepsovat vselijake malicke vecicky do detailov.
+A nakoniec ten kod ani nepredam a nebudem mat s toho nic. Dolezite je spravit ho tak aby fungoval spravne. 
+A aby sa potom dal predat a mal som neaky uzitok s tej aplikacie ktoru som vydal. 
