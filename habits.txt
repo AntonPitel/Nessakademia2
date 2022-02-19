@@ -1,0 +1,5 @@
+V tretom videu rozprava o jednoduchosti kodu.
+Je to cisto o tom aby sme sa snazili pisat kod co najjednoduchsie.
+Je to lahsie pre nas ale aj pre druhych ktory ten kod citaju a snazia sa ho pochopit.
+Snazime sa tym vyhnut hlavne chybam crashom a bugom. 
+Lahsie sa debuguje ten kod a skor a rychlejsie mozeme potom ten kod dat do predaja.
